@@ -1,0 +1,15 @@
+@@||vortex.data.microsoft.com^$important
+@@||settings-win.data.microsoft.com^$important
+@@||self.events.data.microsoft.com^$important
+@@||nexusrules.officeapps.live.com^$important
+@@||nexus.officeapps.live.com^$important
+@@||mobile.pipe.aria.microsoft.com^$important
+@@||googleapis.l.google.com^$important
+@@||dc.services.visualstudio.com^$important
+@@||click.email.microsoftemail.com^$important
+@@||browser.pipe.aria.microsoft.com^$important
+@@||android.clients.google.com^$important
+@@||ajax.googleapis.com^$important
+@@||mobile.pipe.aria.microsoft.com^$important
+@@||cy2.vortex.data.microsoft.com.akadns.net^$important
+@@||us-v20.events.data.microsoft.com^$important
