@@ -13,3 +13,4 @@
 @@||mobile.pipe.aria.microsoft.com^$important
 @@||cy2.vortex.data.microsoft.com.akadns.net^$important
 @@||us-v20.events.data.microsoft.com^$important
+@@||continuum.dds.microsoft.com^$important
