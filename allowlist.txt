@@ -15,3 +15,14 @@
 @@||continuum.dds.microsoft.com^$important
 @@||events.data.microsoft.com^$important
 @@||client.wns.windows.com^$important
+@@||us-v20.events.data.microsoft.com^$important
+@@||az416426.vo.msecnd.net^$important
+@@||c1.microsoft.com^$important
+@@||api.onesignal.com^$important
+@@||cdn.onesignal.com^$important
+@@||onesignal.com^$important
+@@||cdn.branch.io^$important
+@@||api2.branch.io^$important
+@@||v.shopify.com^$important
+@@||collector.newrelic.com^$important
+@@||analytics.plex.tv^$important
