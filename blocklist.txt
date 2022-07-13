@@ -5,3 +5,4 @@
 ||deloplen.com^$important
 ||p367320.mycdn.co^$important
 ||javhd.com^&important
+||https://cdn.bannersnack.com^important
